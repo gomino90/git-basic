@@ -1,8 +1,14 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Dolli
 
 coach: DOLLIE
+=======
+manager: Lupi
+
+coach: Lupi
+>>>>>>> cadfb672e15da97369b57faea639e29f090b2f2e
 
 members:
 - Linda
